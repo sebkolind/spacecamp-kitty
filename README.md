@@ -15,11 +15,11 @@
 </div>
 
 1. Clone this repo
-2. Copy the `spacemap.conf` file to a preferred location
+2. Copy the `spacecamp.conf` file to a preferred location
 3. Add an include to your `kitty.conf` file, like this:
 
 ```
-include ./path/to/theme/spacemap.conf
+include ./path/to/theme/spacecamp.conf
 ```
 
 ### Colors
