@@ -38,7 +38,7 @@ active_tab_foreground #dedede
 inactive_tab_background #dedede
 inactive_tab_foreground #282828
 
-#·normal
+# normal
 color0 #282828
 color1 #d71a1a
 color2 #57ba37
@@ -48,7 +48,7 @@ color5 #cf73e6
 color6 #b7cbf4
 color7 #dedede
 
-#·bright
+# bright
 color8 #666666
 color9 #ff0000
 color10 #d8fa3b
