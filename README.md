@@ -22,6 +22,10 @@
 include ./path/to/theme/spacecamp.conf
 ```
 
+### Screenshot
+
+![Kitty terminal - SpaceCamp screenshot](./screenshot.png)
+
 ### Colors
 
 ```
